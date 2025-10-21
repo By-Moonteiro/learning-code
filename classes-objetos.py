@@ -1,5 +1,4 @@
-# Slides da facul ("Inutil")
-
+# Slides da facul
 
 
 # class Rotulo:
