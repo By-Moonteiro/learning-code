@@ -1,3 +1,7 @@
+# Slides da facul ("Inutil")
+
+
+
 # class Rotulo:
 # '''O Modulo __init__  permite contruir objetos de uma classe.'''
 
